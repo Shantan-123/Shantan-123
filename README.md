@@ -2,12 +2,18 @@
 
 ## Overview
 
-Welcome to my GitHub repository! I'm Shantanu Khidake, a recent Electronics & Telecommunication graduate with a passion for technology, particularly in the field of cloud computing. Currently pursuing AWS certification, I am dedicated to staying at the forefront of the ever-evolving tech landscape.
+Welcome to my GitHub repository! I'm Shantanu Khidake, a recent Electronics & Telecommunication graduate with a passion for technology, particularly in the field of cloud computing. A AWS certification, I am dedicated to staying at the forefront of the ever-evolving tech landscape.
 
 ## 🚀 Skills
 
 - **AWS Cloud:** Implementing AWS solutions.
+- **AWS EC2:** Creating EC2 instance.
+- **AWS S3:** Creating S3 bucket and storing data.
+- **AWS Lamda:** For serverless.
+- **AWS VPC:** For security.
+- **DeOPS:** For Automation
 - **Python**-- Very Good commanding knowledge
+- **HTML:** Basic Knowledge
 - **MySQL**-- Very Good knowledge
 - **SQL**-- Very Good knowledge
 - **Power BI**-- Very Good knowledge
@@ -15,6 +21,7 @@ Welcome to my GitHub repository! I'm Shantanu Khidake, a recent Electronics & Te
 ## 🎮 Hobbies
 
 In my free time, I enjoy exploring the world of gaming, finding inspiration in its technological advancements.
+Also like to play guitar.
 
 ## 🎵 Music Enthusiast
 
